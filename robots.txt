@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trustcircleenterprise.github.io/command-center-studio/sitemap.xml
